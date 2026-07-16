@@ -1,0 +1,4 @@
+interface:
+  display_name: "落浮双角色配图"
+  short_description: "用韩立与南宫婉双角色为中文文章生成清爽手绘正文配图资产"
+  default_prompt: "Use $luofu-illustrations to 为这篇中文文章规划并生成韩立与南宫婉双角色正文配图。"
